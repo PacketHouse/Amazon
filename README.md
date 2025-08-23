@@ -13,4 +13,4 @@ This project is licensed under the MIT License - see the LICENSE.md file for det
 * [Autopsy](https://www.autopsy.com)
 * [Photorec](https://www.cgsecurity.org/wiki/photoRec)
 * [The Sleuth Kit](https://www.sleuthkit.org)
-* [VirusToal](https://www.virustotal.com)
+* [VirusTotal](https://www.virustotal.com)
